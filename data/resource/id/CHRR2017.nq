@@ -1,0 +1,2 @@
+﻿<http://datadock.io/DemoCollabDataDock/ku-demo/id/resource/id/CHRR2017> <http://datadock.io/DemoCollabDataDock/ku-demo/id/definition/id> "CHRR2017"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/DemoCollabDataDock/ku-demo/id/dataset/projects.csv>.
+<http://datadock.io/DemoCollabDataDock/ku-demo/id/resource/id/CHRR2017> <http://www.w3.org/2000/01/rdf-schema#label> "Croydon Hospital Readmission Research 2017"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/DemoCollabDataDock/ku-demo/id/dataset/projects.csv>.

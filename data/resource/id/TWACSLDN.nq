@@ -1,0 +1,2 @@
+﻿<http://datadock.io/DemoCollabDataDock/ku-demo/id/resource/id/TWACSLDN> <http://datadock.io/DemoCollabDataDock/ku-demo/id/definition/id> "TWACSLDN"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/DemoCollabDataDock/ku-demo/id/dataset/projects.csv>.
+<http://datadock.io/DemoCollabDataDock/ku-demo/id/resource/id/TWACSLDN> <http://www.w3.org/2000/01/rdf-schema#label> "The Way Ahead Civil Society in London"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/DemoCollabDataDock/ku-demo/id/dataset/projects.csv>.
