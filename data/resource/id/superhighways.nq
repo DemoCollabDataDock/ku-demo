@@ -1,0 +1,3 @@
+﻿<http://datadock.io/DemoCollabDataDock/ku-demo/id/resource/id/superhighways> <http://datadock.io/DemoCollabDataDock/ku-demo/id/dataset/orgs.csv#homepage> <http://www.superhighways.org.uk/> <http://datadock.io/DemoCollabDataDock/ku-demo/id/dataset/orgs.csv>.
+<http://datadock.io/DemoCollabDataDock/ku-demo/id/resource/id/superhighways> <http://datadock.io/DemoCollabDataDock/ku-demo/id/definition/id> "superhighways"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/DemoCollabDataDock/ku-demo/id/dataset/orgs.csv>.
+<http://datadock.io/DemoCollabDataDock/ku-demo/id/resource/id/superhighways> <http://xmlns.com/foaf/0.1/name> "Superhighways"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/DemoCollabDataDock/ku-demo/id/dataset/orgs.csv>.

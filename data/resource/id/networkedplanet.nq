@@ -1,0 +1,3 @@
+﻿<http://datadock.io/DemoCollabDataDock/ku-demo/id/resource/id/networkedplanet> <http://datadock.io/DemoCollabDataDock/ku-demo/id/dataset/orgs.csv#homepage> <http://networkedplanet.com/> <http://datadock.io/DemoCollabDataDock/ku-demo/id/dataset/orgs.csv>.
+<http://datadock.io/DemoCollabDataDock/ku-demo/id/resource/id/networkedplanet> <http://datadock.io/DemoCollabDataDock/ku-demo/id/definition/id> "networkedplanet"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/DemoCollabDataDock/ku-demo/id/dataset/orgs.csv>.
+<http://datadock.io/DemoCollabDataDock/ku-demo/id/resource/id/networkedplanet> <http://xmlns.com/foaf/0.1/name> "Networked Planet LTD"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/DemoCollabDataDock/ku-demo/id/dataset/orgs.csv>.
